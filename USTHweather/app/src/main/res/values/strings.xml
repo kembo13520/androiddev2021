@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USTH Weather</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="storming">Storming</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloundy">Cloundy</string>
+    <string name="raining">Raning</string>
+
+    <string name="temporary">12C</string>
+    <string name="city">Hanoi</string>
+    <string name="refresh">refresh</string>
+    <string name="settings">settings</string>
+</resources>

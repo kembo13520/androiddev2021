@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USTH Weather</string>
+
+    <string name="monday">Thứ hai</string>
+    <string name="tuesday">Thứ ba</string>
+    <string name="wednesday">Thứ tư</string>
+    <string name="thursday">Thứ năm</string>
+    <string name="saturday">Thứ bảy</string>
+    <string name="sunday">Chủ nhật</string>
+    <string name="friday">Thứ sáu</string>
+    <!-- TODO: Type of weather-->
+    <string name="storming">Bão</string>
+    <string name='sunny'>Nắng</string>
+    <string name="cloundy">Mây</string>
+    <string name="raining">Mưa</string>
+
+    <!-- TODO: Temporary -->
+    <string name="temporary">12C</string>
+    <string name="city">Hà Nội</string>
+    <string name="refresh">Tải Lại</string>
+    <string name="settings">Cài Đặt</string>
+</resources>
